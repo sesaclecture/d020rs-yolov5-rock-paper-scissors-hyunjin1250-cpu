@@ -1,4 +1,6 @@
 .vscode
-.venv/
+.env/
+.venv_xpu/
 __pycache__/
 .pytest_cache/
+
